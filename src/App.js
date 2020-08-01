@@ -13,7 +13,7 @@ function App() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Watson da IBM + Adobe After Effects + Wikipedia + Google Images API + Algorithmia + JavaScript + Node.js para criar 4 robôs que geram vídeos automáticos no YouTube."}
+        videoDescription={"Essa é uma receita para quem nunca fez pão ou já tentou fazer e não deu certo. Vamos usar somente 4 ingredientes básicos e nenhum utensílio especial para conseguir um delicioso pão com casca crocante e um miolo bem macio."}
       />
 
       <Carousel
